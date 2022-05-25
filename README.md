@@ -4,4 +4,4 @@ For this project I trained and compared results from 3 different classification 
 - K-Nearest Neighbors (KNN)
 - Random Forest
 - Support Vector Machines
-Finally, I built an Ensemble Model, a Stacking Classifier, using as base estimators the 3 aforementioned models.
+Eventually I built an Ensemble Model, a Stacking Classifier, using as base estimators the 3 aforementioned models.
