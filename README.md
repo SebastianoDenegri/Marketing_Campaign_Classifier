@@ -1,7 +1,7 @@
 # Marketing Campaign Classifier
 Predicting the success of Marketing Campaigns using Supervised Machine Learning.
-For this project I trained and compared results from 4 different classification algorithms:
+For this project I trained and compared results from 3 different classification algorithms:
 - K-Nearest Neighbors (KNN)
 - Random Forest
 - Support Vector Machines
-- A Stacked Classifier, obtained using as base estimators the above models
+Eventually I built an Ensemble Model, a Stacked Classifier, using as base estimators the above 3 classification models.
